@@ -1,5 +1,4 @@
 ## PROJECT DESCRIPTION
-```bash
 ● Update the existing Solvencies System using Vue.js, Quasar, Nest.js Frameworks, JavaScript programming language, Node.js development environment, PostgreSQL database migration
 ● Designed and developed the local web system that facilitates the visualization of the materials modules, loans of materials, loan details in balsamiq and the realization of non-debt certificates of the student through the web system.
 ● Implement CRUD modules for students, users, loans, loan details, locations, faculties, schools, office and office type. Implement endpoints for the academic view and endpoints for the loans view.
@@ -13,7 +12,7 @@ in Spanish:
 ●	Implemente módulos de CRUD de alumnos, usuarios, prestamo, detalles del prestamo, sedes, facultades, escuelas, oficina y tipo oficina. Implemente endpoints para la vista académico y endpoints para la vista prestamos.
 ●	Realicé actualizaciones periódicas para mejorar la funcionalidad y la seguridad de la aplicación.
 ●	Integré un panel administrativo que permite a los administradores actualizar sus detalles del prestamo de materiales de la biblioteca de la universidad.
-```
+
 
 ## Installation
 ```bash
