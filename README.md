@@ -1,3 +1,20 @@
+## PROJECT DESCRIPTION
+```bash
+● Update the existing Solvencies System using Vue.js, Quasar, Nest.js Frameworks, JavaScript programming language, Node.js development environment, PostgreSQL database migration
+● Designed and developed the local web system that facilitates the visualization of the materials modules, loans of materials, loan details in balsamiq and the realization of non-debt certificates of the student through the web system.
+● Implement CRUD modules for students, users, loans, loan details, locations, faculties, schools, office and office type. Implement endpoints for the academic view and endpoints for the loans view.
+● Performed periodic updates to improve the functionality and security of the application.
+● Integrated an administrative panel that allows administrators to update their details of the loan of materials from the university library.
+
+in Spanish:
+
+●	Actualice el Sistema existente Solvencias utilice Frameworks de  Vue.js, Quasar, Nest.js, lenguaje de programación JavaScript,  entorno de desarrollo Node.js, la migración de la base de datos PostgreSQL
+●	Diseñé y desarrollé el sistema web local que facilita la visualización de los módulos de materiales, prestamos de los materiales, detalles del préstamo en balsamiq y la realización de constancias no adeudo del alumno mediante el sistema web.
+●	Implemente módulos de CRUD de alumnos, usuarios, prestamo, detalles del prestamo, sedes, facultades, escuelas, oficina y tipo oficina. Implemente endpoints para la vista académico y endpoints para la vista prestamos.
+●	Realicé actualizaciones periódicas para mejorar la funcionalidad y la seguridad de la aplicación.
+●	Integré un panel administrativo que permite a los administradores actualizar sus detalles del prestamo de materiales de la biblioteca de la universidad.
+```
+
 ## Installation
 ```bash
 $ git clone https://gitlab.com/unt_frontend/frontend-solvencia.git
